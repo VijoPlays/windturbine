@@ -17,3 +17,6 @@ h
 +src/main/java/windkraft/config/turbinespeed,e\1\e1dd78bf3c88d745e5a466a156095929d201d9f0
 9
 	ReadMe.md,a\2\a225a7e79496c5a1d847c78c3db651eb302ec867
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
